@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-05-05T20:36:25.570+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No default constructor for entity:  : pl.zti.spring.demo.entity.Employee; nested exception is org.hibernate.InstantiationException: No default constructor for entity:  : pl.zti.spring.demo.entity.Employee",
+  "path": "/employee"
+}

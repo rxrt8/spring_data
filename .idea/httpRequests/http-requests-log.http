@@ -1,0 +1,238 @@
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2}
+
+<> 2019-05-05T105858.415.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105845.415.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105429.415.json
+
+###
+
+GET http://localhost:3248/employee/2
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+###
+
+GET http://localhost:3248/employee/1
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105406.200.json
+
+###
+
+GET http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105356.200.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105346.415.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105224.200.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T105019.415.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+{"id":2,"firstName":"Michal2","lastName":"Matuszewski2","role":"2ceo"}
+
+<> 2019-05-05T104948.415.json
+
+###
+
+GET http://localhost:3248/employee/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104916.200.json
+
+###
+
+GET http://localhost:3248/employee/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104703.404.json
+
+###
+
+GET http://localhost:3248/employee/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104649.404.json
+
+###
+
+GET http://localhost:3248/employee/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104414.404.json
+
+###
+
+GET http://localhost:3248/employee/1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104253.404.json
+
+###
+
+GET http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104224.404.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T104159.415.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T103738.500.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T103625.500.json
+
+###
+
+POST http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T103518.415.json
+
+###
+
+GET http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T103449.500.json
+
+###
+
+GET http://localhost:3248/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T103414.500.json
+
+###
+
+GET http://localhost:3248/zti/employee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-05T103405.404.json
+
+###
+
+GET http://localhost:18081/zti/employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:18081/zti/employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/zti/employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/zti/employee
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/zti
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
